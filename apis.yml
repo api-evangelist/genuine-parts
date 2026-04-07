@@ -1,7 +1,12 @@
 aid: genuine-parts
-url: https://raw.githubusercontent.com/api-evangelist/genuine-parts/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/genuine-parts/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.genuine-parts.com
+description: >-
+  Genuine Parts Company is a service organization engaged in the distribution of automotive
+  replacement parts, industrial replacement parts, and electrical materials and electronic
+  components.
