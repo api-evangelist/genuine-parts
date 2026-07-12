@@ -21,12 +21,16 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/genuine-parts-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/genuine-parts-company
   - type: Website
     url: https://www.genpt.com
   - type: NAPA Auto Parts
     url: https://www.napaonline.com
+  - url: https://www.genpt.com/press-releases?pagetemplate=rss
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
