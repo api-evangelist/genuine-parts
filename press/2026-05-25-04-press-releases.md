@@ -1,7 +1,9 @@
 ---
 title: Press Releases
 url: https://www.genpt.com/2025-09-04-Genuine-Parts-Company-Advances-Board-Refreshment-Program-With-New-Appointments-to-Support-Ongoing-Transformation
-date: '2026-05-25'
+published: '2025-09-04'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Genuine Parts" press release artificial intelligence'
 position: 4
 source: serpapi-google

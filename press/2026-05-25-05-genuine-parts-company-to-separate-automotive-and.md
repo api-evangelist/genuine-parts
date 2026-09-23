@@ -1,7 +1,9 @@
 ---
 title: Genuine Parts Company to Separate Automotive and ...
 url: https://www.linkedin.com/posts/genuine-parts-company_today-gpc-announced-the-plan-to-separate-activity-7429526583591477248-2qKn
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Genuine Parts" press release artificial intelligence'
 position: 5
 source: serpapi-google
